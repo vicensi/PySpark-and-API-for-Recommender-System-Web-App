@@ -1,6 +1,6 @@
 # PySpark-and-API-for-Recommender-System-Web-App
 
-# Projeto Final - Deploy de Modelo PySpark e API Para Web App de Sistema de Recomendação em Tempo Real
+# Deploy de Modelo PySpark e API Para Web App de Sistema de Recomendação em Tempo Real
 
 ## Descrição
 
